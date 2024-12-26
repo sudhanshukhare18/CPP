@@ -20,3 +20,4 @@ int main()
 		cout<<s<<endl;
 return 0;
 }
+//WAP to print everage of the elements
